@@ -3,8 +3,13 @@ LeetCode
 
 算法萌新的刷题笔记本📒
 多轮刷题（见各branch）
- - 第一轮刷题顺序：参考@程序员柠檬的[笔记](https://zhuanlan.zhihu.com/p/501483324)
- - 第二轮刷题顺序：一题多解，多题同解。参考大佬lucifer的[笔记](https://github.com/azl397985856/leetcode)
+ - 第一轮刷题顺序：参考[程序员柠檬的笔记](https://zhuanlan.zhihu.com/p/501483324)，见branch-tag。
+ - 第二轮刷题顺序：一题多解，多题同解。参考[大佬lucifer的笔记](https://github.com/azl397985856/leetcode)，待办事项。
+
+ TODO:
+ - 刷剑指offer
+ - 使用anti card复习
+
 
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
