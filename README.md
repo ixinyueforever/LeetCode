@@ -6,7 +6,7 @@ LeetCode
 多轮刷题(见各branch)
  - 第一轮刷题顺序：参考[程序员柠檬的笔记](https://zhuanlan.zhihu.com/p/501483324)将题目分成17类，见branch-*bytag*。
 
-At least <span style='color: red;'>8</span> problems every day!
+At least <span style='color: red;'>**8**</span> problems every day!
 Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 
 |NO.|Title|Solution|Note|Difficulty|Tag|Date|
