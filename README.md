@@ -1,15 +1,13 @@
 LeetCode
 ========
 
-算法萌新的刷题笔记本📒
+##算法萌新的刷题笔记本📒(*•̀ㅂ•́)و
+
 多轮刷题(见各branch)
- - 第一轮刷题顺序：参考[程序员柠檬的笔记](https://zhuanlan.zhihu.com/p/501483324)，见branch-*bytag*。**At least 6 problems every day!**
+ - 第一轮刷题顺序：参考[程序员柠檬的笔记](https://zhuanlan.zhihu.com/p/501483324)将题目分成17类，见branch-*bytag*。
 
- TODO:
- - 第二轮刷题：一题多解，多题同解。参考[大佬lucifer的笔记](https://github.com/azl397985856/leetcode)，待办事项。
- - 刷剑指offer
- - 使用anti card复习
-
+At least <span style='color: red;'>8</span> problems every day!
+Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 
 |NO.|Title|Solution|Note|Difficulty|Tag|Date|
 |---|-----|--------|----|----------|---|----|
@@ -33,3 +31,7 @@ LeetCode
 |14|[最长公共前缀](https://leetcode.cn/problems/longest-common-prefix)|Python|Note|Easy|字符串-公共前缀|20231018|
 
 
+ TODO:
+ - 第二轮刷题：一题多解，多题同解。参考[大佬lucifer的笔记](https://github.com/azl397985856/leetcode)，待办事项。
+ - 刷剑指offer
+ - 使用anti card复习
