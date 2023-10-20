@@ -21,10 +21,10 @@ Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 |498|[对角线遍历](https://leetcode.cn/problems/diagonal-traverse/description/)|Python|Note|Medium|数组-特定的顺序遍历二维数组|20231018|
 |566|[重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)|Python|Note|Easy|数组-二维数组变换|20231018|
 |48|[旋转图像](https://leetcode.cn/problems/rotate-image/description/)|Python|Note|Medium|数组-二维数组变换|20231018*|
-|73|[矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes)|Python|Note|Medium|数组-二维数组变换|20231018|
-|289|[生命游戏](https://leetcode.cn/problems/game-of-life)|Python|Note|Medium|数组-二维数组变换|20231018|
-|303|[区域和检索-数组不可变](https://leetcode.cn/problems/range-sum-query-immutable)|Python|Note|Easy|数组-前缀和数组|20231018|
-|304|[二维区域和检索-矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable)|Python|Note|Medium|数组-前缀和数组|20231018|
+|73|[矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes)|Python|Note|Medium|数组-二维数组变换|20231020*|
+|289|[生命游戏](https://leetcode.cn/problems/game-of-life)|Python|Note|Medium|数组-二维数组变换|20231020|
+|303|[区域和检索-数组不可变](https://leetcode.cn/problems/range-sum-query-immutable)|Python|Note|Easy|数组-前缀和数组|20231020|
+|304|[二维区域和检索-矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable)|Python|Note|Medium|数组-前缀和数组|20231020*|
 |238|[除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self)|Python|Note|Medium|数组-前缀和数组|20231018|
 |520|[检测大写字母](https://leetcode.cn/problems/detect-capital)|Python|Note|Easy|字符串-字符|20231018|
 |125|[验证回文串](https://leetcode.cn/problems/valid-palindrome)|Python|Note|Easy|字符串-回文串的定义|20231018|
