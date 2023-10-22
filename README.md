@@ -41,12 +41,12 @@ Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 |242|[有效的字母异位词](https://leetcode.cn/problems/valid-anagram)|Python|Note|Easy|字符串-字符的统计|20231021|
 |49|[字母异位词分组](https://leetcode.cn/problems/group-anagrams)|Python|Note|Medium|字符串-字符的统计|20231022|
 |451|[根据字符出现频率排序](https://leetcode.cn/problems/sort-characters-by-frequency)|Python|Note|Medium|字符串-字符的统计|20231022|
-|423|[从英文中重建数字](https://leetcode.cn/problems/reconstruct-original-digits-from-english)|Python|Note|Medium|字符串-字符的统计|20231022|
+|423|[*从英文中重建数字](https://leetcode.cn/problems/reconstruct-original-digits-from-english)|Python|Note|Medium|字符串-字符的统计|20231022|
 |657|[机器人能否返回原点](https://leetcode.cn/problems/robot-return-to-origin)|Python|Note|Easy|字符串-字符的统计|20231022|
 |551|[学生出勤记录 I](https://leetcode.cn/problems/student-attendance-record-i)|Python|Note|Easy|字符串-字符的统计|20231022|
-|696|[计数二进制子串](https://leetcode.cn/problems/count-binary-substrings)|Python|Note|Easy|字符串-字符的统计|20231022|
+|696|[*计数二进制子串](https://leetcode.cn/problems/count-binary-substrings)|Python|Note|Easy|字符串-字符的统计|20231022|
 |467|[环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string)|Python|Note|Medium|字符串-字符的统计|20231022|
-|535|[TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl)|Python|Note|Medium|字符串-字符的统计|20231022|
+|535|[*TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl)|Python|Note|Medium|字符串-字符的统计|20231022|
 
 
  TODO:
