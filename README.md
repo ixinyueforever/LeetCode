@@ -17,18 +17,36 @@ Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 |189|[轮转数组](https://leetcode.cn/problems/rotate-array/)|Python|Note|Easy|数组-数组的旋转|20231017|
 |396|[旋转函数](https://leetcode.cn/problems/rotate-function/)|Python|Note|Medium|数组-数组的旋转|20231017|
 |54|[螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)|Python|Note|Medium|数组-特定的顺序遍历二维数组|20231017|
-|59|[螺旋矩阵二](https://leetcode.cn/problems/spiral-matrix-ii/)|Python|Note|Medium|数组-特定的顺序遍历二维数组|20231018*|
+|59|[螺旋矩阵二](https://leetcode.cn/problems/spiral-matrix-ii/)|Python|Note|Medium|数组-特定的顺序遍历二维数组|20231018|
 |498|[对角线遍历](https://leetcode.cn/problems/diagonal-traverse/description/)|Python|Note|Medium|数组-特定的顺序遍历二维数组|20231018|
 |566|[重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)|Python|Note|Easy|数组-二维数组变换|20231018|
-|48|[旋转图像](https://leetcode.cn/problems/rotate-image/description/)|Python|Note|Medium|数组-二维数组变换|20231018*|
-|73|[矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes)|Python|Note|Medium|数组-二维数组变换|20231020*|
+|48|[旋转图像](https://leetcode.cn/problems/rotate-image/description/)|Python|Note|Medium|数组-二维数组变换|20231018|
+|73|[矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes)|Python|Note|Medium|数组-二维数组变换|20231020|
 |289|[生命游戏](https://leetcode.cn/problems/game-of-life)|Python|Note|Medium|数组-二维数组变换|20231020|
 |303|[区域和检索-数组不可变](https://leetcode.cn/problems/range-sum-query-immutable)|Python|Note|Easy|数组-前缀和数组|20231020|
-|304|[二维区域和检索-矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable)|Python|Note|Medium|数组-前缀和数组|20231020*|
+|304|[二维区域和检索-矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable)|Python|Note|Medium|数组-前缀和数组|20231020|
 |238|[除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self)|Python|Note|Medium|数组-前缀和数组|20231018|
 |520|[检测大写字母](https://leetcode.cn/problems/detect-capital)|Python|Note|Easy|字符串-字符|20231018|
 |125|[验证回文串](https://leetcode.cn/problems/valid-palindrome)|Python|Note|Easy|字符串-回文串的定义|20231018|
 |14|[最长公共前缀](https://leetcode.cn/problems/longest-common-prefix)|Python|Note|Easy|字符串-公共前缀|20231018|
+|434|[字符串中的单词数](https://leetcode.cn/problems/number-of-segments-in-a-string)|Python|Note|Easy|字符串-单词|20231020|
+|58|[最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word)|Python|Note|Easy|字符串-单词|20231020|
+|344|[反转字符串](https://leetcode.cn/problems/reverse-string)|Python|Note|Hard|字符串-字符串的反转|20231021|
+|541|[*反转字符串 II](https://leetcode.cn/problems/reverse-string-ii)|Python|Note|Easy|字符串-字符串的反转|20231021|
+|557|[反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii)|Python|Note|Easy|字符串-字符串的反转|20231021|
+|151|[反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string)|Python|Note|Medium|字符串-字符串的反转|20231021|
+|387|[字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string)|Python|Note|Easy|字符串-字符的统计|20231021|
+|389|[找不同](https://leetcode.cn/problems/find-the-difference)|Python|Note|Easy|字符串-字符的统计|20231021|
+|383|[赎金信](https://leetcode.cn/problems/ransom-note)|Python|Note|Easy|字符串-字符的统计|20231021|
+|242|[有效的字母异位词](https://leetcode.cn/problems/valid-anagram)|Python|Note|Easy|字符串-字符的统计|20231021|
+|49|[字母异位词分组](https://leetcode.cn/problems/group-anagrams)|Python|Note|Medium|字符串-字符的统计|20231022|
+|451|[根据字符出现频率排序](https://leetcode.cn/problems/sort-characters-by-frequency)|Python|Note|Medium|字符串-字符的统计|20231022|
+|423|[从英文中重建数字](https://leetcode.cn/problems/reconstruct-original-digits-from-english)|Python|Note|Medium|字符串-字符的统计|20231022|
+|657|[机器人能否返回原点](https://leetcode.cn/problems/robot-return-to-origin)|Python|Note|Easy|字符串-字符的统计|20231022|
+|551|[学生出勤记录 I](https://leetcode.cn/problems/student-attendance-record-i)|Python|Note|Easy|字符串-字符的统计|20231022|
+|696|[计数二进制子串](https://leetcode.cn/problems/count-binary-substrings)|Python|Note|Easy|字符串-字符的统计|20231022|
+|467|[环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string)|Python|Note|Medium|字符串-字符的统计|20231022|
+|535|[TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl)|Python|Note|Medium|字符串-字符的统计|20231022|
 
 
  TODO:
