@@ -47,6 +47,22 @@ Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 |696|[*计数二进制子串](https://leetcode.cn/problems/count-binary-substrings)|Python|Note|Easy|字符串-字符的统计|20231022|
 |467|[环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string)|Python|Note|Medium|字符串-字符的统计|20231022|
 |535|[*TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl)|Python|Note|Medium|字符串-字符的统计|20231022|
+|299|[猜数字游戏](https://leetcode.cn/problems/bulls-and-cows)|Python|Note|Medium|数字与字符串间转换|20231023|
+|412|[Fizz Buzz](https://leetcode.cn/problems/fizz-buzz)|Python|Note|Easy|数字与字符串间转换|20231023|
+|506|[相对名次](https://leetcode.cn/problems/relative-ranks)|Python|Note|Easy|数字与字符串间转换|20231023|
+|539|[*最小时间差](https://leetcode.cn/problems/minimum-time-difference)|Python|Note|Medium|数字与字符串间转换|20231023|
+|553|[最优除法](https://leetcode.cn/problems/optimal-division)|Python|Note|Medium|数字与字符串间转换|20231023|
+|537|[复数乘法](https://leetcode.cn/problems/complex-number-multiplication)|Python|Note|Medium|数字与字符串间转换|20231023|
+|592|[*分数加减运算](https://leetcode.cn/problems/fraction-addition-and-subtraction)|Python|Note|Medium|数字与字符串间转换|20231023|
+|640|[*求解方程](https://leetcode.cn/problems/solve-the-equation)|Python|Note|Medium|数字与字符串间转换|20231023|
+|38|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
+|443|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
+|8|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
+|13|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
+|12|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
+|273|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
+|165|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
+|481|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
 
 
  TODO:
