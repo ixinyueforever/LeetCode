@@ -55,14 +55,14 @@ Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 |537|[复数乘法](https://leetcode.cn/problems/complex-number-multiplication)|Python|Note|Medium|数字与字符串间转换|20231023|
 |592|[*分数加减运算](https://leetcode.cn/problems/fraction-addition-and-subtraction)|Python|Note|Medium|数字与字符串间转换|20231023|
 |640|[*求解方程](https://leetcode.cn/problems/solve-the-equation)|Python|Note|Medium|数字与字符串间转换|20231023|
-|38|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
-|443|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
-|8|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
-|13|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
-|12|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
-|273|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
-|165|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
-|481|[]()|Python|Note|Medium|数字与字符串间转换|20231024|
+|38|[外观数列](https://leetcode.cn/problems/count-and-say)|Python|Note|Medium|数字与字符串间转换|20231024|
+|443|[压缩字符串](https://leetcode.cn/problems/string-compression)|Python|Note|Medium|数字与字符串间转换|20231024|
+|8|[字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi)|Python|Note|Medium|数字与字符串间转换|20231024|
+|13|[罗马数字转整数](https://leetcode.cn/problems/roman-to-integer)|Python|Note|Easy|数字与字符串间转换|20231024|
+|12|[整数转罗马数字](https://leetcode.cn/problems/integer-to-roman)|Python|Note|Medium|数字与字符串间转换|20231024|
+|273|[整数转换英文表示](https://leetcode.cn/problems/integer-to-english-words)|Python|Note|Hard|数字与字符串间转换|20231024|
+|165|[比较版本号](https://leetcode.cn/problems/compare-version-numbers)|Python|Note|Medium|数字与字符串间转换|20231024|
+|481|[神奇字符串](https://leetcode.cn/problems/magical-string)|Python|Note|Medium|数字与字符串间转换|20231024|
 
 
  TODO:
