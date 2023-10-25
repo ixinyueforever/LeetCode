@@ -79,34 +79,29 @@ Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 |686|[重复叠加字符串匹配](https://leetcode.cn/problems/repeated-string-match)|Python|Note-KMP|Medium|字符串-字符串匹配|20231026|
 |459|[重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern)|Python|Note|Easy|字符串-字符串匹配|20231026|
 |214|[*最短回文串](https://leetcode.cn/problems/shortest-palindrome)|Python|Note-KMP|Hard|字符串-字符串匹配|20231026|
-
-
-<!-- |5|[]()|Python|Note|Medium|字符串-中心拓展法|20231027|
-|647|[]()|Python|Note|Medium|字符串-中心拓展法|20231027|
-|7|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|9|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|479|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|564|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|231|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|342|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|326|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|504|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|263|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|190|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|191|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|476|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|461|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|477|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-
-|693|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|5|[最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring)|Python|Note|Medium|字符串-中心拓展法|20231027|
+|647|[回文子串](https://leetcode.cn/problems/palindromic-substrings)|Python|Note|Medium|字符串-中心拓展法|20231027|
+|7|[整数反转](https://leetcode.cn/problems/reverse-integer)|Python|Note|Medium|数与位-数字的位操作|20231027|
+|9|[回文数](https://leetcode.cn/problems/palindrome-number/description/)|Python|Note|Easy|数与位-数字的位操作|20231027|
+|479|[最大回文数乘积](https://leetcode.cn/problems/largest-palindrome-product)|Python|Note|Hard|数与位-数字的位操作|20231027|
+|564|[寻找最近的回文数](https://leetcode.cn/problems/find-the-closest-palindrome)|Python|Note|Hard|数与位-数字的位操作|20231027|
+|231|[2的幂](https://leetcode.cn/problems/power-of-two)|Python|Note|Easy|数与位-数字的位操作|20231027|
+|342|[4的幂](https://leetcode.cn/problems/power-of-four)|Python|Note|Easy|数与位-数字的位操作|20231027|
+|326|[3的幂](https://leetcode.cn/problems/power-of-three)|Python|Note|Easy|数与位-数字的位操作|20231027|
+|504|[七进制数](https://leetcode.cn/problems/base-7)|Python|Note|Easy|数与位-数字的位操作|20231027|
+|263|[丑数](https://leetcode.cn/problems/ugly-number)|Python|Note|Easy|数与位-数字的位操作|20231027|
+|190|[颠倒二进制位](https://leetcode.cn/problems/reverse-bits)|Python|Note|Easy|数与位-数字的位操作|20231027|
+|191|[位1的个数](https://leetcode.cn/problems/number-of-1-bits)|Python|Note|Easy|数与位-数字的位操作|20231027|
+|476|[数字的补数](https://leetcode.cn/problems/number-complement)|Python|Note|Easy|数与位-数字的位操作|20231027|
+|461|[汉明距离](https://leetcode.cn/problems/hamming-distance)|Python|Note|Easy|数与位-数字的位操作|20231027|
+|477|[汉明距离总和](https://leetcode.cn/problems/total-hamming-distance)|Python|Note|Medium|数与位-数字的位操作|20231027|
+<!-- |693|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
 |393|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
 |172|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
 |458|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
 |258|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
 |319|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
 |405|[]()|Python|Note|Medium|数与位-数字的位操作|20231028| -->
-
-
 
 
 <!-- |171|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
@@ -118,7 +113,6 @@ Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 |492|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
 |39|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
 |507|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-
 
 |50|[]()|Python|Note|Medium|数与位-快速幂|20231029|
 |372|[]()|Python|Note|Medium|数与位-快速幂|20231029|
