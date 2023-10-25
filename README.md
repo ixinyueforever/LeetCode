@@ -47,22 +47,79 @@ Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 |696|[*计数二进制子串](https://leetcode.cn/problems/count-binary-substrings)|Python|Note|Easy|字符串-字符的统计|20231022|
 |467|[环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string)|Python|Note|Medium|字符串-字符的统计|20231022|
 |535|[*TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl)|Python|Note|Medium|字符串-字符的统计|20231022|
-|299|[猜数字游戏](https://leetcode.cn/problems/bulls-and-cows)|Python|Note|Medium|数字与字符串间转换|20231023|
-|412|[Fizz Buzz](https://leetcode.cn/problems/fizz-buzz)|Python|Note|Easy|数字与字符串间转换|20231023|
-|506|[相对名次](https://leetcode.cn/problems/relative-ranks)|Python|Note|Easy|数字与字符串间转换|20231023|
-|539|[*最小时间差](https://leetcode.cn/problems/minimum-time-difference)|Python|Note|Medium|数字与字符串间转换|20231023|
-|553|[最优除法](https://leetcode.cn/problems/optimal-division)|Python|Note|Medium|数字与字符串间转换|20231023|
-|537|[复数乘法](https://leetcode.cn/problems/complex-number-multiplication)|Python|Note|Medium|数字与字符串间转换|20231023|
-|592|[*分数加减运算](https://leetcode.cn/problems/fraction-addition-and-subtraction)|Python|Note|Medium|数字与字符串间转换|20231023|
-|640|[*求解方程](https://leetcode.cn/problems/solve-the-equation)|Python|Note|Medium|数字与字符串间转换|20231023|
-|38|[外观数列](https://leetcode.cn/problems/count-and-say)|Python|Note|Medium|数字与字符串间转换|20231024|
-|443|[压缩字符串](https://leetcode.cn/problems/string-compression)|Python|Note|Medium|数字与字符串间转换|20231024|
-|8|[字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi)|Python|Note|Medium|数字与字符串间转换|20231024|
-|13|[罗马数字转整数](https://leetcode.cn/problems/roman-to-integer)|Python|Note|Easy|数字与字符串间转换|20231024|
-|12|[整数转罗马数字](https://leetcode.cn/problems/integer-to-roman)|Python|Note|Medium|数字与字符串间转换|20231024|
-|273|[整数转换英文表示](https://leetcode.cn/problems/integer-to-english-words)|Python|Note|Hard|数字与字符串间转换|20231024|
-|165|[比较版本号](https://leetcode.cn/problems/compare-version-numbers)|Python|Note|Medium|数字与字符串间转换|20231024|
-|481|[神奇字符串](https://leetcode.cn/problems/magical-string)|Python|Note|Medium|数字与字符串间转换|20231024|
+|299|[猜数字游戏](https://leetcode.cn/problems/bulls-and-cows)|Python|Note|Medium|字符串-数字与字符串间转换|20231023|
+|412|[Fizz Buzz](https://leetcode.cn/problems/fizz-buzz)|Python|Note|Easy|字符串-数字与字符串间转换|20231023|
+|506|[相对名次](https://leetcode.cn/problems/relative-ranks)|Python|Note|Easy|字符串-数字与字符串间转换|20231023|
+|539|[*最小时间差](https://leetcode.cn/problems/minimum-time-difference)|Python|Note|Medium|字符串-数字与字符串间转换|20231023|
+|553|[最优除法](https://leetcode.cn/problems/optimal-division)|Python|Note|Medium|字符串-数字与字符串间转换|20231023|
+|537|[复数乘法](https://leetcode.cn/problems/complex-number-multiplication)|Python|Note|Medium|字符串-数字与字符串间转换|20231023|
+|592|[*分数加减运算](https://leetcode.cn/problems/fraction-addition-and-subtraction)|Python|Note|Medium|字符串-数字与字符串间转换|20231023|
+|640|[*求解方程](https://leetcode.cn/problems/solve-the-equation)|Python|Note|Medium|字符串-数字与字符串间转换|20231023|
+|38|[外观数列](https://leetcode.cn/problems/count-and-say)|Python|Note|Medium|字符串-数字与字符串间转换|20231024|
+|443|[压缩字符串](https://leetcode.cn/problems/string-compression)|Python|Note|Medium|字符串-数字与字符串间转换|20231024|
+|8|[字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi)|Python|Note|Medium|字符串-数字与字符串间转换|20231024|
+|13|[罗马数字转整数](https://leetcode.cn/problems/roman-to-integer)|Python|Note|Easy|字符串-数字与字符串间转换|20231024|
+|12|[整数转罗马数字](https://leetcode.cn/problems/integer-to-roman)|Python|Note|Medium|字符串-数字与字符串间转换|20231024|
+|273|[整数转换英文表示](https://leetcode.cn/problems/integer-to-english-words)|Python|Note|Hard|字符串-数字与字符串间转换|20231024|
+|165|[比较版本号](https://leetcode.cn/problems/compare-version-numbers)|Python|Note|Medium|字符串-数字与字符串间转换|20231024|
+|481|[神奇字符串](https://leetcode.cn/problems/magical-string)|Python|Note|Medium|字符串-数字与字符串间转换|20231024|
+|392|[判断子序列](https://leetcode.cn/problems/is-subsequence)|Python|Note|Easy|字符串-子序列|20231025|
+|524|[通过删除字母匹配到字典里最长单词](https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/)|Python|Note|Medium|字符串-子序列|20231025|
+|521|[最长特殊序列 Ⅰ](https://leetcode.cn/problems/longest-uncommon-subsequence-i)|Python|Note|Easy|字符串-子序列|20231025|
+|522|[最长特殊序列 II](https://leetcode.cn/problems/longest-uncommon-subsequence-ii)|Python|Note|Medium|字符串-子序列|20231025|
+|66|[加一](https://leetcode.cn/problems/plus-one)|Python|Note|Easy|字符串-高精度运算|20231025|
+|67|[二进制求和](https://leetcode.cn/problems/add-binary)|Python|Note|Easy|字符串-高精度运算|20231025|
+|415|[字符串相加](https://leetcode.cn/problems/add-strings)|Python|Note|Easy|字符串-高精度运算|20231025|
+|43|[字符串相乘](https://leetcode.cn/problems/multiply-strings)|Python|Note|Medium|字符串-高精度运算|20231025|
+|306|[*累加数](https://leetcode.cn/problems/additive-number)|Python|Note|Medium|字符串-高精度运算|20231026|
+|482|[密钥格式化](https://leetcode.cn/problems/license-key-formatting)|Python|Note|Easy|字符串-字符串变换|20231026|
+|6|[N 字形变换](https://leetcode.cn/problems/zigzag-conversion)|Python|Note|Medium|字符串-字符串变换|20231026|
+|68|[*文本左右对齐](https://leetcode.cn/problems/text-justification)|Python|Not-KMP|Hard|字符串-字符串变换|20231026|
+|28|[找出字符串中第一个匹配项的下标](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string)|Python|Note-KMP|Easy|字符串-字符串匹配|20231026|
+|686|[重复叠加字符串匹配](https://leetcode.cn/problems/repeated-string-match)|Python|Note-KMP|Medium|字符串-字符串匹配|20231026|
+|459|[重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern)|Python|Note|Easy|字符串-字符串匹配|20231026|
+|214|[*最短回文串](https://leetcode.cn/problems/shortest-palindrome)|Python|Note-KMP|Hard|字符串-字符串匹配|20231026|
+
+
+<!-- |5|[]()|Python|Note|Medium|字符串-中心拓展法|20231027|
+|647|[]()|Python|Note|Medium|字符串-中心拓展法|20231027|
+|7|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|9|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|479|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|564|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|231|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|342|[]()|Python|Note|Medium|数与位-数字的位操作|20231027| -->
+<!-- |326|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|504|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|263|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|190|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|191|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|476|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|461|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|477|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+
+|693|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
+|393|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
+|172|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
+|458|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
+|258|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
+|319|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
+|405|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
+|171|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
+|168|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
+|670|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
+|233|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
+|357|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
+|400|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
+|492|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
+|39|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
+|507|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
+
+|50|[]()|Python|Note|Medium|数与位-快速幂|20231031|
+|372|[]()|Python|Note|Medium|数与位-快速幂|20231031| -->
+
+
+
 
 
  TODO:
