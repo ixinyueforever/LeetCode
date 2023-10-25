@@ -6,7 +6,7 @@ LeetCode
 多轮刷题(见各branch)
  - 第一轮刷题顺序：参考[程序员柠檬的笔记](https://zhuanlan.zhihu.com/p/501483324)将题目分成17类，见branch-*bytag*。
 
-At least <span style='color: red;'>**8**</span> problems every day!
+Go through at least <span style='color: red;'>**15**</span> problems every day!
 Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 
 |NO.|Title|Solution|Note|Difficulty|Tag|Date|
@@ -88,35 +88,55 @@ Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 |479|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
 |564|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
 |231|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
-|342|[]()|Python|Note|Medium|数与位-数字的位操作|20231027| -->
-<!-- |326|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|504|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|263|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|190|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|191|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|476|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|461|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|477|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|342|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|326|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|504|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|263|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|190|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|191|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|476|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|461|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
+|477|[]()|Python|Note|Medium|数与位-数字的位操作|20231027|
 
-|693|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
-|393|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
-|172|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
-|458|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
-|258|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
-|319|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
-|405|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
-|171|[]()|Python|Note|Medium|数与位-数字的位操作|20231029|
-|168|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
-|670|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
-|233|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
-|357|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
-|400|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
-|492|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
-|39|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
-|507|[]()|Python|Note|Medium|数与位-数字的位操作|20231030|
+|693|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|393|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|172|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|458|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|258|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|319|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|405|[]()|Python|Note|Medium|数与位-数字的位操作|20231028| -->
 
-|50|[]()|Python|Note|Medium|数与位-快速幂|20231031|
-|372|[]()|Python|Note|Medium|数与位-快速幂|20231031| -->
+
+
+
+<!-- |171|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|168|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|670|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|233|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|357|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|400|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|492|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|39|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|507|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+
+
+|50|[]()|Python|Note|Medium|数与位-快速幂|20231029|
+|372|[]()|Python|Note|Medium|数与位-快速幂|20231029|
+|682|[]()|Python|Note|Medium|栈与递归-用栈访问最后若干元素|20231029|
+|71|[]()|Python|Note|Medium|栈与递归-用栈访问最后若干元素|20231029|
+|388|[]()|Python|Note|Medium|栈与递归-用栈访问最后若干元素|20231029|
+|150|[]()|Python|Note|Medium|数与位-栈与计算器|20231029|
+|227|[]()|Python|Note|Medium|数与位-栈与计算器|20231029|
+|224|[]()|Python|Note|Medium|栈与递归-栈与计算器|20231029|
+|20|[]()|Python|Note|Medium|栈与递归-栈与括号匹配|20231029|
+|636|[]()|Python|Note|Medium|栈与递归-栈与括号匹配|20231029|
+|591|[]()|Python|Note|Medium|栈与递归-栈与括号匹配|20231029|
+|32|[]()|Python|Note|Medium|栈与递归-栈与括号匹配|20231029|
+|385|[]()|Python|Note|Medium|栈与递归-递归|20231029|
+|341|[]()|Python|Note|Medium|栈与递归-递归|20231029|
+|394|[]()|Python|Note|Medium|栈与递归-递归|20231029| -->
+
+
 
 
 
