@@ -95,13 +95,13 @@ Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 |476|[数字的补数](https://leetcode.cn/problems/number-complement)|Python|Note|Easy|数与位-数字的位操作|20231027|
 |461|[汉明距离](https://leetcode.cn/problems/hamming-distance)|Python|Note|Easy|数与位-数字的位操作|20231027|
 |477|[汉明距离总和](https://leetcode.cn/problems/total-hamming-distance)|Python|Note|Medium|数与位-数字的位操作|20231027|
-<!-- |693|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|393|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|172|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|458|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
+|693|[交替位二进制数](https://leetcode.cn/problems/binary-number-with-alternating-bits)|Python|Note|Easy|数与位-数字的位操作|20231028|
+|*393|[UTF-8 编码验证](https://leetcode.cn/problems/utf-8-validation)|Python|Note|Medium|数与位-数字的位操作|20231028|
+|172|[阶乘后的零](https://leetcode.cn/problems/factorial-trailing-zeroes)|Python|Note|Medium|数与位-数字的位操作|20231028|
+|458|[可怜的小猪](https://leetcode.cn/problems/poor-pigs/description/)|Python|Note|Hard|数与位-数字的位操作|20231028|
 |258|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
 |319|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|405|[]()|Python|Note|Medium|数与位-数字的位操作|20231028| -->
+|405|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
 
 
 <!-- |171|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
