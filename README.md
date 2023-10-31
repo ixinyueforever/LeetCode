@@ -99,36 +99,33 @@ Go!Go!Go! Fighting!!! (ﾉ๑•̀д•́๑)ﾉ
 |*393|[UTF-8 编码验证](https://leetcode.cn/problems/utf-8-validation)|Python|Note|Medium|数与位-数字的位操作|20231028|
 |172|[阶乘后的零](https://leetcode.cn/problems/factorial-trailing-zeroes)|Python|Note|Medium|数与位-数字的位操作|20231028|
 |458|[可怜的小猪](https://leetcode.cn/problems/poor-pigs/description/)|Python|Note|Hard|数与位-数字的位操作|20231028|
-|258|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|319|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|405|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-
-
-<!-- |171|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|168|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|670|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|233|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|357|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|400|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|492|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|39|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-|507|[]()|Python|Note|Medium|数与位-数字的位操作|20231028|
-
-|50|[]()|Python|Note|Medium|数与位-快速幂|20231029|
-|372|[]()|Python|Note|Medium|数与位-快速幂|20231029|
-|682|[]()|Python|Note|Medium|栈与递归-用栈访问最后若干元素|20231029|
-|71|[]()|Python|Note|Medium|栈与递归-用栈访问最后若干元素|20231029|
-|388|[]()|Python|Note|Medium|栈与递归-用栈访问最后若干元素|20231029|
-|150|[]()|Python|Note|Medium|数与位-栈与计算器|20231029|
-|227|[]()|Python|Note|Medium|数与位-栈与计算器|20231029|
-|224|[]()|Python|Note|Medium|栈与递归-栈与计算器|20231029|
-|20|[]()|Python|Note|Medium|栈与递归-栈与括号匹配|20231029|
-|636|[]()|Python|Note|Medium|栈与递归-栈与括号匹配|20231029|
-|591|[]()|Python|Note|Medium|栈与递归-栈与括号匹配|20231029|
-|32|[]()|Python|Note|Medium|栈与递归-栈与括号匹配|20231029|
-|385|[]()|Python|Note|Medium|栈与递归-递归|20231029|
-|341|[]()|Python|Note|Medium|栈与递归-递归|20231029|
-|394|[]()|Python|Note|Medium|栈与递归-递归|20231029| -->
+|258|[各位相加](https://leetcode.cn/problems/add-digits)|Python|Note|Easy|数与位-数字的位操作|20231028|
+|319|[*灯泡开关](https://leetcode.cn/problems/bulb-switcher)|Python|Note|Medium|数与位-数字的位操作|20231028|
+|405|[数字转换为十六进制数](https://leetcode.cn/problems/convert-a-number-to-hexadecimal)|Python|Note|Easy|数与位-数字的位操作|20231028|
+|171|[Excel表列序号](https://leetcode.cn/problems/excel-sheet-column-number)|Python|Note|Easy|数与位-数字的位操作|20231028|
+|168|[Excel表列名称](https://leetcode.cn/problems/excel-sheet-column-title)|Python|Note|Easy|数与位-数字的位操作|20231028|
+|670|[最大交换](https://leetcode.cn/problems/maximum-swap)|Python|Note|Medium|数与位-数字的位操作|20231028|
+|233|[数字1的个数](https://leetcode.cn/problems/number-of-digit-one)|Python|Note|Hard|数与位-数字的位操作|20231028|
+|357|[统计各位数字都不同的数字个数](https://leetcode.cn/problems/count-numbers-with-unique-digits)|Python|Note|Medium|数与位-数字的位操作|20231028|
+|400|[第N位数字](https://leetcode.cn/problems/nth-digit)|Python|Note|Medium|数与位-数字的位操作|20231028|
+|492|[构造矩形](https://leetcode.cn/problems/construct-the-rectangle)|Python|Note|Easy|数与位-数字的位操作|20231028|
+|39|[组合总和](https://leetcode.cn/problems/combination-sum)|Python|Note|Medium|数与位-数字的位操作|20231028|
+|507|[完美数](https://leetcode.cn/problems/perfect-number)|Python|Note|Easy|数与位-数字的位操作|20231028|
+|50|[Pow(x, n)](https://leetcode.cn/problems/powx-n)|Python|Note|Medium|数与位-快速幂|20231029|
+|372|[*超级次方](https://leetcode.cn/problems/super-pow)|Python|Note|Medium|数与位-快速幂|20231029|
+|682|[棒球比赛](https://leetcode.cn/problems/baseball-game)|Python|Note|Medium|栈与递归-用栈访问最后若干元素|20231029|
+|71|[简化路径](https://leetcode.cn/problems/simplify-path)|Python|Note|Medium|栈与递归-用栈访问最后若干元素|20231029|
+|388|[*文件的最长绝对路径](https://leetcode.cn/problems/longest-absolute-file-path)|Python|Note|Medium|栈与递归-用栈访问最后若干元素|20231029|
+|150|[逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation)|Python|Note|Medium|数与位-栈与计算器|20231029|
+|227|[基本计算器II](https://leetcode.cn/problems/basic-calculator-ii)|Python|Note|Medium|数与位-栈与计算器|20231029|
+|224|[基本计算器](https://leetcode.cn/problems/basic-calculator)|Python|Note|Hard|栈与递归-栈与计算器|20231029|
+|20|[有效的括号](https://leetcode.cn/problems/valid-parentheses)|Python|Note|Easy|栈与递归-栈与括号匹配|20231029|
+|636|[函数的独占时间](https://leetcode.cn/problems/exclusive-time-of-functions)|Python|Note|Medium|栈与递归-栈与括号匹配|20231029|
+|591|[标签验证器](https://leetcode.cn/problems/tag-validator)|Python|Note|Hard|栈与递归-栈与括号匹配|20231029|
+|32|[最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses)|Python|Note|Medium|栈与递归-栈与括号匹配|20231029|
+|385|[迷你语法分析器](https://leetcode.cn/problems/mini-parser)|Python|Note|Medium|栈与递归-递归|20231029|
+|341|[扁平化嵌套列表迭代器](https://leetcode.cn/problems/flatten-nested-list-iterator)|Python|Note|Medium|栈与递归-递归|20231029|
+|394|[字符串解码](https://leetcode.cn/problems/decode-string)|Python|Note|Medium|栈与递归-递归|20231029|
 
 
 
